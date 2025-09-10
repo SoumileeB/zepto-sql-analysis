@@ -26,7 +26,7 @@ The main aim was to practice SQL in a real dataset and show how SQL can be used 
 ## How to Run
 
 - Clone this repo
-- Import the zepto_analysis.sql file into PostgreSQL
+- Import the sql file into PostgreSQL
 - Run the queries step by step
   
 ---
