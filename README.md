@@ -28,3 +28,9 @@ The main aim was to practice SQL in a real dataset and show how SQL can be used 
 - Clone this repo
 - Import the zepto_analysis.sql file into PostgreSQL
 - Run the queries step by step
+  
+---
+## Project Overview
+
+This project is based on a grocery inventory dataset from [Kaggle](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv) (inspired by Zepto).  
+I used PostgreSQL to explore, clean, and analyze the data in order to answer practical business questions such as revenue by category, discount patterns, and products at risk of stock-out.
